@@ -1,0 +1,8 @@
+{
+  "name": "رادار العملات - Coin Radar",
+  "description": "رادار العملات: تحليل لحظي للأسواق الرقمية مع مؤشرات فنية وبوت تداول تجريبي",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
